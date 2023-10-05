@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>create new page</title>
+<body body style="background-color:white;">
+<h1 body style="background-color:powderblue;"><marquee><font color="white"><b>ANIME</b></font></marquee></h1>
+<img src="C:\Users\admin\Desktop\binshad\demon.jpg">
+<ol>
+<li>b1</li>
+<li>b2</li>
+<li>b3</li>
+<li>b4</li>
+</ol>
+<a href="n2.html">naruto</a>
+<br>
+<br>
+<table border="2">
+<tr>
+<th>character</th>
+<th>power</th>
+</tr>
+<tr>
+<td>naruto</td>
+<td>jinchoriki</td>
+</tr>
+</body>
+</html>
